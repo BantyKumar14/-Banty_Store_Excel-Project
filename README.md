@@ -1,4 +1,4 @@
-📊 Banty Store Annual Sales Report 2024
+# 📊 Banty Store Annual Sales Report 2024
 🎯 Objective
 -> Analyze customer behavior and sales trends in 2024 to improve strategies for 2025.
 
