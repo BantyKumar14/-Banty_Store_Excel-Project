@@ -40,4 +40,4 @@
 
 4.Sales Channels: 🛒 Amazon + 🛒 Flipkart + 🛒 Myntra → 80%
 
-✅ Tip: Add simple charts like pie charts for gender, Bar charts for top states, and Area charts for monthly sales to make it visually engaging.
+# ✅ Tip: Add simple charts like pie charts for gender, Bar charts for top states, and Area charts for monthly sales to make it visually engaging.
