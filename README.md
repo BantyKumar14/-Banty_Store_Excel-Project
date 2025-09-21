@@ -1,8 +1,8 @@
 # 📊 Banty Store Annual Sales Report 2024
-🎯 Objective
+# 🎯 Objective
 -> Analyze customer behavior and sales trends in 2024 to improve strategies for 2025.
 
-📈 Key Findings
+# 📈 Key Findings
 👩 Women Customers: 65% of purchases → strong female customer base
 
 📍 Top States: Maharashtra, Karnataka, Uttar Pradesh → 35% of sales
@@ -15,14 +15,14 @@
 
 🏆 Highest Selling Category: Most popular product category determined
 
-🛠 Steps Taken
+# 🛠 Steps Taken
 1.Data Cleaning: Removed errors & duplicates
 
 2.Data Processing: Extracted key metrics(This step converted raw records into structured, actionable data for easy analysis and visualization)
 
 3.Data Analysis: Used Excel charts, pivot tables, and formulas
 
-💡 Recommendations for 2025
+# 💡 Recommendations for 2025
 🎯 Focus on Women Customers
 
 👥 Target 30-49 Age Group
@@ -31,7 +31,7 @@
 
 🛒 Optimize Amazon, Flipkart & Myntra Channels
 
-📊 Quick Visuals (Emoji-Style)
+# 📊 Quick Visuals (Emoji-Style)
 1.Gender Distribution: 👩👩👩👨👨 → Women 65%, Men 35%
 
 2.Top States: 📍 Maharashtra | 📍 Karnataka | 📍 Uttar Pradesh
